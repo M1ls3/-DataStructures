@@ -1,0 +1,16 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\bin\Debug\net5.0\Stack.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 5\Stack\obj\Debug\net5.0\refint\Stack.dll
